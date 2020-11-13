@@ -1,0 +1,53 @@
+/******TAG SELECTORS******/
+
+h1 {
+  color: maroon;
+  font-size: 100px;
+  text-align: center;
+}
+
+p {
+  text-align: center;
+}
+
+
+img:hover {
+  background-color: gold;
+}
+
+/******CLASS SELECTORS******/
+
+.kevin {
+  background-color: purple;
+  padding: 1.5em;
+  height: 150px;
+  width: 150px;
+  margin: 1px auto;
+  display: block;
+}
+
+.circular {
+  border-radius: 100%;
+}
+
+.bacon {
+  background-color: indigo;
+  padding: 1em;
+  margin: 1px auto;
+  display: block;
+}
+
+/*
+.broccoli {
+  background-color: red;
+  padding: 2.25em;
+}
+*/
+
+/******ID SELECTORS******/
+
+/*
+#heading {
+  color: blue;
+}
+*/
